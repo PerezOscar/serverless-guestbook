@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/oscarperez%40ciencias.unam.mx_dev/guestbook';
+const apiUrl = 'https://us-south.functions.appdomain.cloud/api/v1/web/60f96718-ef31-4de8-9a98-cbc5e6025fbb/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
